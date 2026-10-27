@@ -1,0 +1,10 @@
+node_modules
+client/node_modules
+client/dist
+.env
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+*.pyo
+api/users_local_db.json
